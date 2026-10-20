@@ -1,0 +1,15 @@
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.Forms.LoginForm.resources
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.MainForm.resources
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.Forms.ManageCategoriesForm.resources
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.Forms.RegisterForm.resources
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.Properties.Resources.resources
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.csproj.GenerateResource.cache
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\bin\Debug\DailyExpenseTracker.exe.config
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\bin\Debug\DailyExpenseTracker.exe
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\bin\Debug\DailyExpenseTracker.pdb
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\bin\Debug\MaterialSkin.dll
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExp.DC070DB7.Up2Date
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.exe
+C:\Users\alaeb\OneDrive\Dokumenty\c#\DailyExpenseTracker\DailyExpenseTracker\obj\Debug\DailyExpenseTracker.pdb
